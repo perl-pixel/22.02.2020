@@ -1,0 +1,40 @@
+.title{
+    display: flex;
+    margin-top: 150px;
+}
+
+.bred{
+    width: 493px;
+    height: 590px;
+}
+
+.bred h1{
+  font-family: 'Open Sans',;
+}
+
+.bred p{
+font-family:'Open Sans',;
+}
+
+.text2{
+    display: flex;
+    width: 615px;
+}
+
+.text3{
+    width:615px;
+}
+
+.block{
+    width: 273px;
+    height: 216px;
+
+}
+.bred form input{
+    color: red;
+    border: 1.5px solid red;
+    width: 228px;
+    height: 56px;
+    border-radius: 3px;
+}
+
